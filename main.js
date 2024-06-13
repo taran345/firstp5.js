@@ -28,6 +28,6 @@ function setup() {
   
   }
   
-  function take_Snapshot() {
+  function take_snapshot() {
     save("selfie.png")
   }
